@@ -13,7 +13,7 @@ require (
 	github.com/go-gost/tls-dissector v0.0.2-0.20220408131628-aac992c27451
 	github.com/go-log/log v0.2.0
 	github.com/gobwas/glob v0.2.3
-	github.com/gorilla/websocket v1.4.2
+	github.com/gorilla/websocket v1.5.0
 	github.com/klauspost/compress v1.13.6
 	github.com/lucas-clemente/quic-go v0.26.0
 	github.com/miekg/dns v1.1.47
