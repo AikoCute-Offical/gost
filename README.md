@@ -1,0 +1,2 @@
+# gost
+Aiko Gost = golang
