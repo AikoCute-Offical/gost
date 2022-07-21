@@ -23,7 +23,7 @@ require (
 	github.com/shadowsocks/shadowsocks-go v0.0.0-20200409064450-3e585ff90601
 	github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8
 	github.com/xtaci/kcp-go/v5 v5.6.1
-	github.com/xtaci/smux v1.5.16
+	github.com/xtaci/smux v2.0.1+incompatible
 	github.com/xtaci/tcpraw v1.2.25
 	gitlab.com/yawning/obfs4.git v0.0.0-20210511220700-e330d1b7024b
 	golang.org/x/crypto v0.0.0-20220321153916-2c7772ba3064
