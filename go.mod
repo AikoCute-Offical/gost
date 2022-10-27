@@ -14,7 +14,7 @@ require (
 	github.com/go-log/log v0.2.0
 	github.com/gobwas/glob v0.2.3
 	github.com/gorilla/websocket v1.4.2
-	github.com/klauspost/compress v1.13.6
+	github.com/klauspost/compress v1.15.12
 	github.com/lucas-clemente/quic-go v0.26.0
 	github.com/miekg/dns v1.1.47
 	github.com/milosgajdos/tenus v0.0.3
