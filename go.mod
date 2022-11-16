@@ -3,7 +3,7 @@ module github.com/ginuerzh/gost
 go 1.17
 
 require (
-	git.torproject.org/pluggable-transports/goptlib.git v1.2.0
+	git.torproject.org/pluggable-transports/goptlib.git v1.3.0
 	github.com/LiamHaworth/go-tproxy v0.0.0-20190726054950-ef7efd7f24ed
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d
 	github.com/docker/libcontainer v2.2.1+incompatible
